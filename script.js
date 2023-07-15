@@ -14,7 +14,7 @@ form.addEventListener('submit', (event) => {
     form.appendChild(errorMessage);
   } else {
     // Show a success message if all required fields are filled out
-    alert('Message sent successfully!');
+    alert('Message sent successfully! xxxxxxxxxxxxxxxx');
     form.submit();
   }
 });
